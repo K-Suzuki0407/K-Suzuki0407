@@ -7,15 +7,9 @@
 [![](https://raw.githubusercontent.com/K-Suzuki0407/K-Suzuki0407/main/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/K-Suzuki0407/K-Suzuki0407/main/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=K-Suzuki0407&count_private=true&show_icons=true height="158px" />
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Suzuki0407&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
