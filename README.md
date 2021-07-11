@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=)
+
 <!--
 **K-Suzuki0407/K-Suzuki0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
