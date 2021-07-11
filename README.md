@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=)
+![](https://komarev.com/ghpvc/?username=K-Suzuki0407)
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
