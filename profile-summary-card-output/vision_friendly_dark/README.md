@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/K-Suzuki0407/K-Suzuki0407/main/profile-summary-card-output/vision_friendly_dark/4-productive-time.svg)
+```
+
+    
